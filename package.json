@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "deploy": "next build && next export && gh-pages -d out"
-  },
+  }, 
   "dependencies": {
     "gray-matter": "^4.0.3",
     "next": "15.0.3",
